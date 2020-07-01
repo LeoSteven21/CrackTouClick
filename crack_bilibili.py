@@ -13,12 +13,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from chaojiying import Chaojiying
 
-PHONE = '17621853477'
-PASSWORD = 'Zxy19950921'
+PHONE = ''
+PASSWORD = ''
 # 超级鹰用户名、密码、软件 ID、验证码类型
-CHAOJIYING_USERNAME = 'FkashPoint'
-CHAOJIYING_PASSWORD = 'Zxy19950921'
-CHAOJIYING_SOFT_ID = '906105'
+CHAOJIYING_USERNAME = ''
+CHAOJIYING_PASSWORD = ''
+CHAOJIYING_SOFT_ID = ''
 CHAOJIYING_KIND = '9004'
 
 
